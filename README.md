@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muneeruddin</h1>
 <h3 align="center">A passionate in networking and  ethical hacking and i am  from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif")
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif](https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneer461&label=Profile%20views&color=0e75b6&style=flat" alt="muneer461" /> </p>
 
